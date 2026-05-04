@@ -1,5 +1,7 @@
 # Hi, I'm Ray 👋
 
+[LinkedIn](https://www.linkedin.com/in/raymondneish)
+
 Transitioning from a career in close protection into cybersecurity, with a focus on penetration testing, Active Directory security, and attack detection.
 
 My background in close protection gave me a foundation that directly transfers into security work — threat assessment, risk management, operating under pressure, and thinking like an adversary before they act.
